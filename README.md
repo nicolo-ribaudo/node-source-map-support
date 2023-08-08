@@ -47,7 +47,7 @@ It is also possible to install the source map support directly by
 requiring the `register` module which can be handy with ES6:
 
 ```js
-import 'source-map-support/register'
+import 'source-map-support/register.js'
 
 // Instead of:
 import sourceMapSupport from 'source-map-support'
